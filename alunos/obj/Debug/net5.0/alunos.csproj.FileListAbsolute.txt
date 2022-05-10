@@ -1,0 +1,16 @@
+D:\Programing\.NET\alunos\alunos\bin\Debug\net5.0\alunos.exe
+D:\Programing\.NET\alunos\alunos\bin\Debug\net5.0\alunos.deps.json
+D:\Programing\.NET\alunos\alunos\bin\Debug\net5.0\alunos.runtimeconfig.json
+D:\Programing\.NET\alunos\alunos\bin\Debug\net5.0\alunos.runtimeconfig.dev.json
+D:\Programing\.NET\alunos\alunos\bin\Debug\net5.0\alunos.dll
+D:\Programing\.NET\alunos\alunos\bin\Debug\net5.0\alunos.pdb
+D:\Programing\.NET\alunos\alunos\obj\Debug\net5.0\alunos.csproj.AssemblyReference.cache
+D:\Programing\.NET\alunos\alunos\obj\Debug\net5.0\alunos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\.NET\alunos\alunos\obj\Debug\net5.0\alunos.AssemblyInfoInputs.cache
+D:\Programing\.NET\alunos\alunos\obj\Debug\net5.0\alunos.AssemblyInfo.cs
+D:\Programing\.NET\alunos\alunos\obj\Debug\net5.0\alunos.csproj.CoreCompileInputs.cache
+D:\Programing\.NET\alunos\alunos\obj\Debug\net5.0\alunos.dll
+D:\Programing\.NET\alunos\alunos\obj\Debug\net5.0\refint\alunos.dll
+D:\Programing\.NET\alunos\alunos\obj\Debug\net5.0\alunos.pdb
+D:\Programing\.NET\alunos\alunos\obj\Debug\net5.0\alunos.genruntimeconfig.cache
+D:\Programing\.NET\alunos\alunos\obj\Debug\net5.0\ref\alunos.dll

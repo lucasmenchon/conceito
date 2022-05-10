@@ -12,7 +12,6 @@ namespace alunos
             var q = 0;
 
 
-
             while (opUser.ToUpper() != "X")
             {
 
@@ -57,6 +56,21 @@ namespace alunos
                         break;
 
                     case "3":
+                        decimal totalNota = 0;
+                        var nAlunos = 0;
+                        for (int i = 0; i < alunos.Length; i++)
+                        {
+                            if (!string.IsNullOrEmpty(alunos[i].Nome))
+                            {
+                                totalNota = totalNota + alunos[i].Nota;
+                                nAlunos++;
+
+                            }
+                            
+                        }
+
+                        var mediaGeral = totalNota / nAlunos;
+                        Console.WriteLine($"Média geral: {mediaGeral}");
 
                         break;
 
