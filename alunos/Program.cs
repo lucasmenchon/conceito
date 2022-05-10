@@ -70,7 +70,31 @@ namespace alunos
                         }
 
                         var mediaGeral = totalNota / nAlunos;
-                        Console.WriteLine($"Média geral: {mediaGeral}");
+
+                        Conceito conceitoGeral;
+
+                        if (mediaGeral < 2)
+                        {
+                            conceitoGeral = Conceito.A;
+                        }
+                        else if (mediaGeral < 4)
+                        {
+                            conceitoGeral= Conceito.B;
+                        }
+                        else if (mediaGeral < 6)
+                        {
+                            conceitoGeral = Conceito.C;
+                        }
+                        else if (mediaGeral < 8)
+                        {
+                            conceitoGeral = Conceito.D;
+                        }
+                        else
+                        {
+                            conceitoGeral = Conceito.E;
+                        }
+
+                        Console.WriteLine($"Média geral: {mediaGeral} - CONCEITO: {conceitoGeral}");
 
                         break;
 
